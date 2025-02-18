@@ -54,6 +54,7 @@ libddcutil.so.5:ddca_get_display_info
 libddcutil.so.5:ddca_get_display_info_list2
 libddcutil.so.5:ddca_get_display_ref
 libddcutil.so.5:ddca_get_display_refs
+libddcutil.so.5:ddca_get_display_watch_settings
 libddcutil.so.5:ddca_get_error_detail
 libddcutil.so.5:ddca_get_feature_flags_by_vspec
 libddcutil.so.5:ddca_get_feature_list_by_dref
@@ -93,6 +94,7 @@ libddcutil.so.5:ddca_report_parsed_capabilities_by_dref
 libddcutil.so.5:ddca_reset_stats
 libddcutil.so.5:ddca_set_any_vcp_value
 libddcutil.so.5:ddca_set_display_sleep_multiplier
+libddcutil.so.5:ddca_set_display_watch_settings
 libddcutil.so.5:ddca_set_ferr
 libddcutil.so.5:ddca_set_ferr_to_default
 libddcutil.so.5:ddca_set_fout
